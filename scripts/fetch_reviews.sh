@@ -13,7 +13,9 @@ BOT_LOGINS=(
   "copilot"
   "copilot[bot]"
   "github-copilot[bot]"
+  "copilot-pull-request-reviewer[bot]"
   "gemini-code-assist[bot]"
+  "sentry[bot]"
   "sentry-io[bot]"
   "linear[bot]"
 )
